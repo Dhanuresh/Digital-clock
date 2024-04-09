@@ -1,2 +1,3 @@
 # Digital-clock
 A digital clock is an alternative to a traditional analogue clock. This type of clock shows numbers to display the time in a digital format, such as on a watch, phone or an alarm clock. This can be in both 12 and 24-hour formats, so it’s important for children to understand the two before introducing them to a digital clock.
+Sample Output:http://127.0.0.1:5500/index.html
